@@ -1,34 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-![Github overview](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachnorman02&theme=github)
+<details>
+<summary>📈 GitHub Stats</summary>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachnorman02&theme=github"></img>
 
-[![Zach's GitHub stats](https://github-readme-stats-iota-gray.vercel.app/api?username=zachnorman02&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zachnorman02/github-readme-stats)
+<img src="https://github-readme-stats-iota-gray.vercel.app/api/top-langs/?username=zachnorman02&langs_count=10&layout=compact" style="width:45%;vertical-align:middle"><img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachnorman02&theme=github&utcOffset=-4" style="width:45%;vertical-align:middle"></img>
 
-[![Top Langs](https://github-readme-stats-iota-gray.vercel.app/api/top-langs/?username=zachnorman02&langs_count=10&layout=compact)](https://github.com/zachnorman02/github-readme-stats)
+<img src="https://streak-stats.demolab.com/?user=zachnorman02" style="width:45%;vertical-align:middle"></img>
+<img src="https://github-readme-stats-iota-gray.vercel.app/api?username=zachnorman02&count_private=true&show_icons=true" style="width:45%;vertical-align:middle">
+</img>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zachnorman02)](https://git.io/streak-stats)
-
-[![GitHub times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachnorman02&theme=github&utcOffset=-4)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zachnorman02&theme=github-compact"></img>
+</details>
 
 Welcome to my GitHub, where I work on projects and try to learn stuff, and then put it on here. A lot of it isn't very interesting or impressive, but hopefully it shows what I'm interested in.
 
 You can go to my site here: <https://zachnorman02.com>
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+### Visitor Count
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
+![Visitor Count](https://profile-counter.glitch.me/zachnorman02/count.svg)
 
-<!--START_CONTRIBUTIONS:readme-info-->
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#130](https://github.com/GenerateNU/website/pull/130) in [GenerateNU/website](https://github.com/GenerateNU/website)
 2. 💪 Opened PR [#128](https://github.com/GenerateNU/website/pull/128) in [GenerateNU/website](https://github.com/GenerateNU/website)
