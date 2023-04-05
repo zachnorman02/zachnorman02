@@ -17,3 +17,6 @@ You can go to my site here: <https://zachnorman02.com>
 4. 💪 Opened PR [#1071](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/1071) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
 5. 💪 Opened PR [#117](https://github.com/GenerateNU/website/pull/117) in [GenerateNU/website](https://github.com/GenerateNU/website)
 <!--END_SECTION:activity-->
+
+<!-- START gadpp -->
+<!-- END gadpp -->
