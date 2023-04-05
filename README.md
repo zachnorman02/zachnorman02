@@ -4,6 +4,8 @@
 <summary>📈 GitHub Stats</summary>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zachnorman02&theme=github"></img>
 
+Note: languages listed are for public repos. Nowadays, my #1 language is probably JavaScript/TypeScript.
+
 <img src="https://github-readme-stats-iota-gray.vercel.app/api/top-langs/?username=zachnorman02&langs_count=10&layout=compact" style="width:45%;vertical-align:middle"><img>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachnorman02&theme=github&utcOffset=-4" style="width:45%;vertical-align:middle"></img>
 
