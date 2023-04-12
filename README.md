@@ -26,9 +26,9 @@ You can go to my site here: <https://zachnorman02.com>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/GenerateNU/website/pull/130) in [GenerateNU/website](https://github.com/GenerateNU/website)
-2. 💪 Opened PR [#128](https://github.com/GenerateNU/website/pull/128) in [GenerateNU/website](https://github.com/GenerateNU/website)
-3. 💪 Opened PR [#127](https://github.com/GenerateNU/website/pull/127) in [GenerateNU/website](https://github.com/GenerateNU/website)
-4. 💪 Opened PR [#1071](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/1071) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
-5. 💪 Opened PR [#117](https://github.com/GenerateNU/website/pull/117) in [GenerateNU/website](https://github.com/GenerateNU/website)
+1. 💪 Opened PR [#152](https://github.com/GenerateNU/website/pull/152) in [GenerateNU/website](https://github.com/GenerateNU/website)
+2. 💪 Opened PR [#130](https://github.com/GenerateNU/website/pull/130) in [GenerateNU/website](https://github.com/GenerateNU/website)
+3. 💪 Opened PR [#128](https://github.com/GenerateNU/website/pull/128) in [GenerateNU/website](https://github.com/GenerateNU/website)
+4. 💪 Opened PR [#127](https://github.com/GenerateNU/website/pull/127) in [GenerateNU/website](https://github.com/GenerateNU/website)
+5. 💪 Opened PR [#1071](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/1071) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
 <!--END_SECTION:activity-->
