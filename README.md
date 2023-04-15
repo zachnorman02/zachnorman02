@@ -26,9 +26,9 @@ You can go to my site here: <https://zachnorman02.com>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#163](https://github.com/GenerateNU/website/pull/163) in [GenerateNU/website](https://github.com/GenerateNU/website)
-2. 💪 Opened PR [#160](https://github.com/GenerateNU/website/pull/160) in [GenerateNU/website](https://github.com/GenerateNU/website)
-3. 🎉 Merged PR [#1](https://github.com/zachnorman02/HSKY/pull/1) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
-4. 💪 Opened PR [#1](https://github.com/zachnorman02/HSKY/pull/1) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
-5. 💪 Opened PR [#152](https://github.com/GenerateNU/website/pull/152) in [GenerateNU/website](https://github.com/GenerateNU/website)
+1. 💪 Opened PR [#164](https://github.com/GenerateNU/website/pull/164) in [GenerateNU/website](https://github.com/GenerateNU/website)
+2. 💪 Opened PR [#163](https://github.com/GenerateNU/website/pull/163) in [GenerateNU/website](https://github.com/GenerateNU/website)
+3. 💪 Opened PR [#160](https://github.com/GenerateNU/website/pull/160) in [GenerateNU/website](https://github.com/GenerateNU/website)
+4. 🎉 Merged PR [#1](https://github.com/zachnorman02/HSKY/pull/1) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
+5. 💪 Opened PR [#1](https://github.com/zachnorman02/HSKY/pull/1) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
 <!--END_SECTION:activity-->
