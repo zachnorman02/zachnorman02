@@ -27,8 +27,8 @@ You can go to my site here: <https://zachnorman02.com>
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/zachnorman02/HSKY/pull/3) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
-2. ❗️ Closed issue [#2](https://github.com/zachnorman02/HSKY/issues/2) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
+2. 🔒 Closed issue [#2](https://github.com/zachnorman02/HSKY/issues/2) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
 3. 💪 Opened PR [#3](https://github.com/zachnorman02/HSKY/pull/3) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
-4. ❗️ Opened issue [#2](https://github.com/zachnorman02/HSKY/issues/2) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
+4. ❗ Opened issue [#2](https://github.com/zachnorman02/HSKY/issues/2) in [zachnorman02/HSKY](https://github.com/zachnorman02/HSKY)
 5. 🎉 Merged PR [#24](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/24) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
 <!--END_SECTION:activity-->
