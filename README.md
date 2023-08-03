@@ -26,9 +26,9 @@ You can go to my site here: <https://zachnorman02.com>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/bachkaxyz/bread/pull/98) in [bachkaxyz/bread](https://github.com/bachkaxyz/bread)
-2. 🎉 Merged PR [#32](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/32) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-3. 🎉 Merged PR [#33](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/33) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-4. 🎉 Merged PR [#34](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/34) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-5. 🎉 Merged PR [#36](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/36) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+1. 💪 Opened PR [#104](https://github.com/bachkaxyz/bread/pull/104) in [bachkaxyz/bread](https://github.com/bachkaxyz/bread)
+2. 💪 Opened PR [#98](https://github.com/bachkaxyz/bread/pull/98) in [bachkaxyz/bread](https://github.com/bachkaxyz/bread)
+3. 🎉 Merged PR [#32](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/32) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+4. 🎉 Merged PR [#33](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/33) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+5. 🎉 Merged PR [#34](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/34) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
 <!--END_SECTION:activity-->
