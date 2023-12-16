@@ -26,9 +26,9 @@ You can go to my site here: <https://zachnorman02.com>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/37) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-2. 🎉 Merged PR [#38](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/38) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-3. 🎉 Merged PR [#39](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/39) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-4. 🎉 Merged PR [#40](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/40) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-5. 💪 Opened PR [#116](https://github.com/bachkaxyz/bread/pull/116) in [bachkaxyz/bread](https://github.com/bachkaxyz/bread)
+1. 🎉 Merged PR [#41](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/41) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+2. 🎉 Merged PR [#37](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/37) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+3. 🎉 Merged PR [#38](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/38) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+4. 🎉 Merged PR [#39](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/39) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+5. 🎉 Merged PR [#40](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/40) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
 <!--END_SECTION:activity-->
