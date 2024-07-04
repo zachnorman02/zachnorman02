@@ -26,9 +26,9 @@ You can go to my site here: <https://zachnorman02.com>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/45) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-2. 🎉 Merged PR [#42](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/42) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-3. 🎉 Merged PR [#43](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/43) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-4. 🎉 Merged PR [#44](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/44) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-5. 🎉 Merged PR [#41](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/41) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+1. 🎉 Merged PR [#58](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/58) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+2. 🎉 Merged PR [#56](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/56) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+3. 🎉 Merged PR [#54](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/54) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+4. 🎉 Merged PR [#52](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/52) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+5. 🎉 Merged PR [#51](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/51) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
 <!--END_SECTION:activity-->
