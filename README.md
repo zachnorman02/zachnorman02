@@ -20,6 +20,8 @@ Welcome to my GitHub, where I work on projects and try to learn stuff, and then 
 
 You can go to my site here: <https://zachnorman02.com>
 
+GitLab I never use: <https://gitlab.com/zachnorman02>
+
 ### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/zachnorman02/count.svg)
