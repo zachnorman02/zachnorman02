@@ -13,7 +13,6 @@ Note: languages listed are for public repos. Nowadays, my #1 language is probabl
 <img src="https://github-readme-stats-iota-gray.vercel.app/api?username=zachnorman02&count_private=true&show_icons=true" style="width:45%;vertical-align:middle">
 </img>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zachnorman02&theme=github-compact"></img>
 </details>
 
 Welcome to my GitHub, where I work on projects and try to learn stuff, and then put it on here. A lot of it isn't very interesting or impressive, but hopefully it shows what I'm interested in.
@@ -22,10 +21,6 @@ You can go to my site here: <https://zachnorman02.com>
 *Warning: this is the only place I really advertise my site, it's a little embarrassing*
 
 GitLab I never use: <https://gitlab.com/zachnorman02>
-
-### Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/zachnorman02/count.svg)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
