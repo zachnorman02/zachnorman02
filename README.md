@@ -19,9 +19,9 @@ GitLab I never use: <https://gitlab.com/zachnorman02>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/58) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-2. 🎉 Merged PR [#56](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/56) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-3. 🎉 Merged PR [#54](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/54) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-4. 🎉 Merged PR [#52](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/52) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
-5. 🎉 Merged PR [#51](https://github.com/zachnorman02/fall-22-team-project-group-413/pull/51) in [zachnorman02/fall-22-team-project-group-413](https://github.com/zachnorman02/fall-22-team-project-group-413)
+1. 🔒 Closed issue [#15](https://github.com/zachnorman02/BradBot/issues/15) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+2. 🔒 Closed issue [#14](https://github.com/zachnorman02/BradBot/issues/14) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+3. 🔒 Closed issue [#19](https://github.com/zachnorman02/BradBot/issues/19) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+4. 🔒 Closed issue [#13](https://github.com/zachnorman02/BradBot/issues/13) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+5.  Labeled issue [#19](https://github.com/zachnorman02/BradBot/issues/19) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 <!--END_SECTION:activity-->
