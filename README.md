@@ -8,8 +8,6 @@ Note: languages listed are for public repos. Nowadays, my #1 language is probabl
 
 <img src="https://github-readme-stats-iota-gray.vercel.app/api/top-langs/?username=zachnorman02&langs_count=10&layout=compact" style="width:45%;vertical-align:middle"><img>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zachnorman02&theme=github&utcOffset=-4" style="width:45%;vertical-align:middle"></img>
-
-<img src="https://streak-stats.demolab.com/?user=zachnorman02" style="width:45%;vertical-align:middle"></img>
 <img src="https://github-readme-stats-iota-gray.vercel.app/api?username=zachnorman02&count_private=true&show_icons=true" style="width:45%;vertical-align:middle">
 </img>
 
