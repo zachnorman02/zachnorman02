@@ -19,9 +19,9 @@ GitLab I never use: <https://gitlab.com/zachnorman02>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/zachnorman02/BradBot/issues/21#issuecomment-3685482658) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-2.  Assigned issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-3.  Labeled issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-4. ❗ Opened issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-5. 🔒 Closed issue [#15](https://github.com/zachnorman02/BradBot/issues/15) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+1.  Labeled issue [#22](https://github.com/zachnorman02/BradBot/issues/22) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+2. ❗ Opened issue [#22](https://github.com/zachnorman02/BradBot/issues/22) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+3. 🗣 Commented on [#21](https://github.com/zachnorman02/BradBot/issues/21#issuecomment-3685482658) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+4.  Assigned issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+5.  Labeled issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 <!--END_SECTION:activity-->
