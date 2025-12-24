@@ -19,9 +19,9 @@ GitLab I never use: <https://gitlab.com/zachnorman02>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#23](https://github.com/zachnorman02/BradBot/issues/23) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-2. ❗ Opened issue [#23](https://github.com/zachnorman02/BradBot/issues/23) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-3. 🔒 Closed issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-4. 🔒 Closed issue [#22](https://github.com/zachnorman02/BradBot/issues/22) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-5.  Assigned issue [#22](https://github.com/zachnorman02/BradBot/issues/22) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+1. 🗣 Commented on [#23](https://github.com/zachnorman02/BradBot/issues/23#issuecomment-3688821658) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+2.  Assigned issue [#23](https://github.com/zachnorman02/BradBot/issues/23) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+3.  Labeled issue [#23](https://github.com/zachnorman02/BradBot/issues/23) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+4. ❗ Opened issue [#23](https://github.com/zachnorman02/BradBot/issues/23) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+5. 🔒 Closed issue [#21](https://github.com/zachnorman02/BradBot/issues/21) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 <!--END_SECTION:activity-->
