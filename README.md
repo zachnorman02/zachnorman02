@@ -19,7 +19,7 @@ GitLab I never use: <https://gitlab.com/zachnorman02>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1.  Labeled issue [#27](https://github.com/zachnorman02/BradBot/issues/27) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+1. ℹ️ Labeled issue [#27](https://github.com/zachnorman02/BradBot/issues/27) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 2. ❗ Opened issue [#27](https://github.com/zachnorman02/BradBot/issues/27) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 3. 🔒 Closed issue [#9](https://github.com/zachnorman02/BradBot/issues/9) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 4. 🔒 Closed issue [#10](https://github.com/zachnorman02/BradBot/issues/10) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
