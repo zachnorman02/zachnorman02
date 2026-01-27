@@ -19,9 +19,9 @@ GitLab I never use: <https://gitlab.com/zachnorman02>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/zachnorman02/BradBot/issues/29) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-2. 🔒 Closed issue [#7](https://github.com/zachnorman02/BradBot/issues/7) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-3. 🗣 Commented on [#29](https://github.com/zachnorman02/BradBot/issues/29#issuecomment-3798066114) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-4. 🔒 Closed issue [#28](https://github.com/zachnorman02/BradBot/issues/28) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
-5. ℹ️ Assigned issue [#29](https://github.com/zachnorman02/BradBot/issues/29) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+1. ℹ️ Labeled issue [#30](https://github.com/zachnorman02/BradBot/issues/30) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+2. ❗ Opened issue [#30](https://github.com/zachnorman02/BradBot/issues/30) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+3. ℹ️ Assigned issue [#30](https://github.com/zachnorman02/BradBot/issues/30) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+4. 🔒 Closed issue [#29](https://github.com/zachnorman02/BradBot/issues/29) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
+5. 🔒 Closed issue [#7](https://github.com/zachnorman02/BradBot/issues/7) in [zachnorman02/BradBot](https://github.com/zachnorman02/BradBot)
 <!--END_SECTION:activity-->
